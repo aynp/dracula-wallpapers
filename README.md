@@ -1,9 +1,12 @@
-
-
 # dracula-wallpapers
-> Wallpapers based on the [Dracula Theme](https://draculatheme.com/).
+> Wallpapers based on the [Dracula Theme](https://draculatheme.com/). 
+
+
 
 ![Dracula Wallpapers](https://i.imgur.com/cRfMz2I.png)
+
+### Link to the repository - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) 
+****
 ### Usage
 #### Clone the repository
 Clone this repository to wherever you want to download your wallpapers.
