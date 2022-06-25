@@ -19,8 +19,8 @@ Alternatively you can download the zip file containing all the wallpapers.
 ![Download ZIP](https://i.imgur.com/yJ6W76i.png)
 
 ### TODOs
-- Add 4k variant of every wallpaper.
-- More wallpapers
+- [x] ~~Add 4k variant of every wallpaper.~~
+- [ ] More wallpapers
 
 
 ### Other Repositories 
