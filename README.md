@@ -1,8 +1,6 @@
 # dracula-wallpapers
 > Wallpapers based on the [Dracula Theme](https://draculatheme.com/). 
 
-
-
 ![Dracula Wallpapers](https://i.imgur.com/cRfMz2I.png)
 
 ### Link to the repository - [aynp/dracula-wallpapers](https://github.com/aynp/dracula-wallpapers) 
@@ -20,6 +18,7 @@ Alternatively you can download the zip file containing all the wallpapers.
 
 ### TODOs
 - [x] ~~Add 4k variant of every wallpaper.~~
+- [ ] Add Ultrawide variants of every wallpaper.
 - [ ] More wallpapers
 
 
